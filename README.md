@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>An open way to create tailored AI agents for your team.</strong>
+  <strong>Create tailored AI agents for your team.</strong>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 Hermeum turns the open-source
 [Hermes agent](https://hermes-agent.nousresearch.com/docs) into a managed
-experience. Describe what your agent should do, and Hermeum gives you a working
+platform. Describe what your agent should do, and Hermeum gives you a working
 agent you can chat with, deploy, and iterate on.
 
 ## Highlights
