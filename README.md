@@ -3,21 +3,19 @@
 </p>
 
 <p align="center">
-  <strong>An open platform for creating tailored AI agents for your team.</strong>
+  <strong>An open way to create tailored AI agents for your team.</strong>
 </p>
 
 <p align="center">
   <a href="https://docs.hermeum.app">Documentation</a>
-  · <a href="https://github.com/hermeum/hermes-agent-operator">Operator</a>
 </p>
 
 ---
 
 Hermeum turns the open-source
 [Hermes agent](https://hermes-agent.nousresearch.com/docs) into a managed
-platform. Describe what your agent should do, and Hermeum gives you a working
-agent you can chat with, deploy, and iterate on — all running on Kubernetes as
-`HermesAgent` custom resources.
+experience. Describe what your agent should do, and Hermeum gives you a working
+agent you can chat with, deploy, and iterate on.
 
 ## Highlights
 
