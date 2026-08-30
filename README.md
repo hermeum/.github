@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Create tailored AI agents for your team.</strong>
+  <strong>An open platform for creating tailored AI agents for your team.</strong>
 </p>
 
 <p align="center">
