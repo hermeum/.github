@@ -8,6 +8,8 @@
 
 <p align="center">
   <a href="https://docs.hermeum.app">Documentation</a>
+  ·
+  <a href="https://discord.gg/ZW44yyCAHP">Discord Community</a>
 </p>
 
 ---
