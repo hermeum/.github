@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>An open platform for creating tailored AI agents for your team.</strong>
+  <strong>An open platform for creating fully autonomous Hermes agents that work on your team's behalf.</strong>
 </p>
 
 <p align="center">
